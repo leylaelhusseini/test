@@ -1,0 +1,26 @@
+body{
+    color: white;
+    background-color: cadetblue;
+    text-align: center;
+    
+}
+h1{
+    font-size: 100px;
+}
+button{
+    background-color: coral;
+    font-size: 40px;
+    border-radius: 20px;
+    color: aliceblue;
+    margin: 0 10px;
+    padding: 0 35px;
+}
+p{
+    font-size: 70px;
+}
+button:hover{
+    background: rgb(211, 105, 67);
+}
+button:active{
+transform: scale(0.60)
+}
